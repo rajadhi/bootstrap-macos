@@ -95,11 +95,20 @@ brew cask install visual-studio-code
 printf "\nbrew cask install google-backup-and-sync\n"
 brew cask install google-backup-and-sync
 
+printf "\nbrew cask install NordVPN\n"
+brew cask install nordvpn
+
+printf "\nbrew cask install Microsoft Office\n"
+brew cask install microsoft-office
+
 printf "\nbrew cask install docker\n"
 brew cask install docker 
 
 printf "\nbrew cask install intellij-idea\n"
 brew cask install intellij-idea
+
+printf "\nbrew cask install Alfred\n"
+brew cask install alfred
 
 printf "\nInstalling mas apps...\n"
 
@@ -112,9 +121,20 @@ mas install 1233861775
 printf "\nmas install Time Zone Converter and Clock\n"
 mas install  1255311569
 
-
 printf "\nmas install 1147396723\n"
 mas install 1147396723
+
+printf "\nmas install Magnet\n"
+mas install 441258766
+
+printf "\nmas install Amphetamine\n"
+mas install 937984704
+
+printf "\nmas install Adguard\n"
+mas install 1440147259
+
+printf "\nmas install Grammerly\n"
+mas install 1462114288
 
 printf "\nUpgrading apps\n"
 brew upgrade
