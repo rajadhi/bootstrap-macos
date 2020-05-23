@@ -1,0 +1,37 @@
+.zsh_history
+.CFUserTextEncoding
+.DS_Store
+.Trash/
+.anyconnect
+.cisco/
+.config/
+.docker/
+.iterm2/
+.iterm2_shell_integration.zsh
+.lesshst
+.m2/
+.node-gyp/
+.npm/
+.nvm/
+.oracle_jre_usage/
+.ssh/
+.v8flags*
+.vagrant.d/
+.viminfo
+.vscode/
+.zcompdump*
+Desktop/
+Developer/
+Documents/
+Downloads/
+Google Drive/
+Library/
+Movies/
+Music/
+OneDrive/
+Oracle Content/
+Pictures/
+Public/
+.oh-my-zsh/
+typescript
+.gradle/

@@ -1,0 +1,5 @@
+alias reload='source ~/.zshrc'
+alias dev='cd ~/Developer'
+alias proj='cd ~/Developer/projects'
+
+alias buildf='mvn -e -Dmaven.artifact.threads=10 -Dcheckstyle.skip -Dpmd.skip -DskipTests clean install -T 4.0C'
